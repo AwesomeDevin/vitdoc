@@ -171,6 +171,7 @@ const componentsTemplate = async (vitdoc: VitdocInstance) => {
     isMonorepo,
   } = vitdoc.resolvedConfig;
 
+
   const entry = await resolve("@vitdoc/runtime/index.html", {
     url: import.meta.url,
   }).then(fileURLToPath);

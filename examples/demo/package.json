@@ -27,6 +27,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "vite-plugin-package-alias": "0.0.1-beta.2",
     "@alifd/next": "^1.27.2",
     "@types/lodash": "^4.14.202",
     "@types/react-dom": "^18.2.18",
@@ -37,7 +38,6 @@
     "prettier": "^2.8.8",
     "pretty-quick": "^1.11.1",
     "vitdoc": "workspace:^",
-    "@vitdoc-plugins/package-alias": "^0.0.1-beta.2",
     "vite-plugin-px2vw": "^1.0.3"
   },
   "sideEffects": [

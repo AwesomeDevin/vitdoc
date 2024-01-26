@@ -3,7 +3,7 @@ title: Case3 - Import PackageName
 ---
 
 ```tsx
-import { Title as Component } from 'demo';
+import { Title as Component } from 'demo-package';
 import React from 'react';
 
 export default () => (

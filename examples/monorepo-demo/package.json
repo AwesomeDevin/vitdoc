@@ -25,6 +25,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "vite-plugin-package-alias": "0.0.1-beta.2",
     "@types/react-dom": "^18.2.17",
     "@vitdoc/template-mobile": "workspace:^",
     "@vitdoc/theme-default": "workspace:^",
