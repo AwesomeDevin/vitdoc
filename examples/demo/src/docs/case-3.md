@@ -1,5 +1,9 @@
+---
+title: Case3 - Import PackageName
+---
+
 ```tsx
-import { Title as Component } from '..';
+import { Title as Component } from 'demo';
 import React from 'react';
 
 export default () => (
